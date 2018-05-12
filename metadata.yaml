@@ -1,0 +1,31 @@
+_repo: The-Eye-of-Wilbur-Mook_33047
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33047-h/images/cover-th.jpg
+creator:
+  author:
+    agent_name: Hickey, H. B.
+    alias: Livingston, Herbert B.
+    birthdate: 1916
+    deathdate: 1987
+    gutenberg_agent_id: '36083'
+    url: http://www.gutenberg.org/2009/agents/36083
+description: ''
+gutenberg_issued: '2010-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Merlin (Legendary character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Arthur, King -- Fiction'
+- !lcsh 'Cowardice -- Fiction'
+- !lcsh 'Courage -- Fiction'
+title: The Eye of Wilbur Mook
+url: http://www.gutenberg.org/ebooks/33047
